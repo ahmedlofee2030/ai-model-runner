@@ -1,0 +1,31 @@
+# Ignore compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Project specific
+models/
+dlls/
+temp/
+history.json
+
+# Logs
+*.log
+
+# Distribution
+build/
+dist/
+*.egg-info/

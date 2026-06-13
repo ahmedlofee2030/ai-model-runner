@@ -1,0 +1,11 @@
+{
+  "provider": "CPU",
+  "max_history": 20,
+  "font_size": 11,
+  "dark_mode": true,
+  "num_threads": 4,
+  "optimization": true,
+  "language": "ar",
+  "auto_save_history": true,
+  "history_file": "history.json"
+}
